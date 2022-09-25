@@ -1,0 +1,13 @@
+|          location|  avg|
++------------------+-----+
+|         Bangalore|133.0|
+|         Tangerang| 64.0|
+|Magetan, Indonesia|147.0|
+|    G rdes, Manisa|140.0|
+|             World|140.0|
+|         Minnesota|140.0|
+|Purple Island     |140.0|
+|        Parkjimin |140.0|
+|       she/her 18.|143.5|
+|     @sassy_bigwin|146.0|
++------------------+-----+

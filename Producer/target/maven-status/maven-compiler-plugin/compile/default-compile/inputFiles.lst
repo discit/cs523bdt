@@ -1,0 +1,7 @@
+/home/cloudera/cs523/finalproject/Producer/src/main/java/cs523/bdt/callback/BasicCallback.java
+/home/cloudera/cs523/finalproject/Producer/src/main/java/cs523/bdt/config/TwitterConfig.java
+/home/cloudera/cs523/finalproject/Producer/src/main/java/cs523/bdt/model/User.java
+/home/cloudera/cs523/finalproject/Producer/src/main/java/cs523/bdt/App.java
+/home/cloudera/cs523/finalproject/Producer/src/main/java/cs523/bdt/config/KafkaConfig.java
+/home/cloudera/cs523/finalproject/Producer/src/main/java/cs523/bdt/model/Tweet.java
+/home/cloudera/cs523/finalproject/Producer/src/main/java/cs523/bdt/TweeterProducer.java

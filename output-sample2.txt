@@ -1,0 +1,25 @@
++-------------------+--------------------+-----------+-------+---------------+
+|            tweetid|           tweettext|retweet_cnt|fav_cnt|     screenname|
++-------------------+--------------------+-----------+-------+---------------+
+|1573750935461007360|RT @CryptoMaMa83:...|          0|      0|    rubygem1566|
+|1573750935461007360|RT @CryptoMaMa83:...|          0|      0|    rubygem1566|
+|1573677474151804929|RT @NFTHolding: 2...|          0|      0|    chocomee1on|
+|1573677474151804929|RT @NFTHolding: 2...|          0|      0|    chocomee1on|
+|1573677543181393920|RT @Octavian1987O...|          0|      0|    Taneldanilo|
+|1573677543181393920|RT @Octavian1987O...|          0|      0|    Taneldanilo|
+|1573677579491414017|RT @Samuueth:  $1...|          0|      0|_notyourunicorn|
+|1573677579491414017|RT @Samuueth:  $1...|          0|      0|_notyourunicorn|
+|1573677585443487745|RT @syusyu131:   ...|          0|      0|      syusyu131|
+|1573677585443487745|RT @syusyu131:   ...|          0|      0|      syusyu131|
+|1573531756996616192|RT @soulstealer_h...|          0|      0|      0228files|
+|1573677306576392192|eth              ...|          0|      0|  shinkushinkus|
+|1573531756996616192|RT @soulstealer_h...|          0|      0|      0228files|
+|1573677306576392192|eth              ...|          0|      0|  shinkushinkus|
+|1573677552417132545|RT @Samuueth:  $1...|          0|      0|    missuchit99|
+|1573677552417132545|RT @Samuueth:  $1...|          0|      0|    missuchit99|
+|1573738562171899906|RT @Winners_Onlyn...|          0|      0|     JohnBlomli|
+|1573750936056393728|RT @HOKKFinance: ...|          0|      0|      akash_v32|
+|1573738562171899906|RT @Winners_Onlyn...|          0|      0|     JohnBlomli|
+|1573750936056393728|RT @HOKKFinance: ...|          0|      0|      akash_v32|
++-------------------+--------------------+-----------+-------+---------------+
+only showing top 20 rows
